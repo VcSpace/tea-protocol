@@ -1,0 +1,22 @@
+{
+  "name": "@npmusername/project_name",
+  "version": "1.0.1",
+  "description": "Convert to the text you want.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/username/project.git"
+  },
+  "keywords": [
+    "string"
+  ],
+  "author": "username",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/username/project/issues"
+  },
+  "homepage": "https://github.com/username/project#readme",
+  "dependencies": {
+    "@user/deep_project": "^1.0.1"
+  }
+}
